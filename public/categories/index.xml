@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on A Hugo website</title>
-    <link>https://dazzling-curie-a75687.netlify.app/categories/</link>
-    <description>Recent content in Categories on A Hugo website</description>
+    <title>Categories on Hugo tranquilpeak theme</title>
+    <link>https://sedrek.com/categories/</link>
+    <description>Recent content in Categories on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://dazzling-curie-a75687.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://sedrek.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
-      <link>https://dazzling-curie-a75687.netlify.app/categories/r/</link>
+      <link>https://sedrek.com/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://dazzling-curie-a75687.netlify.app/categories/r/</guid>
+      <guid>https://sedrek.com/categories/r/</guid>
       <description></description>
     </item>
     
