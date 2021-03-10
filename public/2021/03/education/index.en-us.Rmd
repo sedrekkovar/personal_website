@@ -1,0 +1,20 @@
+---
+title: "Education"
+author: "Sedrek Kovar"
+date: '2021-03-10'
+slug: education
+tags:
+- resume
+- experience
+- education
+- about
+categories:
+- Resume
+- Experience
+- Education
+- About
+---
+
+# Education
+
+I graduated from Virginia Commonwealth University in 2020 with my master's degree in environmental studies. My program (MENVS) was a non-thesis track, and I opted to complete both a professional experience alongside an independent study. 

@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "Sedrek Kovar"
-  bio = "My name is Sedrek, and I am a recent graduate from Virginia Commonwealth University's Center for Environmental Studies."
+  bio = "My name is Sedrek, and I am a recent graduate from Virginia Commonwealth University's Center for Environmental Studies. The primary focus of my master's degree was geospatial analysis and watershed delineation methods. However, I have "
   job = "Seeking Employment"
   location = "Portland, OR"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -75,7 +75,7 @@ canonifyurls = true
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
+  url = "/about"
 
 [[menu.links]]
   weight = 1

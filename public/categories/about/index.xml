@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Sedrek Kovar</title>
+    <link>https://sedrek.com/categories/about/</link>
+    <description>Recent content in About on Sedrek Kovar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sedrek.com/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>https://sedrek.com/2021/03/education/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sedrek.com/2021/03/education/</guid>
+      <description>EducationI graduated from Virginia Commonwealth University in 2020 with my master’s degree in environmental studies. My program (MENVS) was a non-thesis track, and I opted to complete both a professional experience alongside an independent study.
+</description>
+    </item>
+    
+  </channel>
+</rss>
